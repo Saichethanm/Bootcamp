@@ -1,0 +1,4 @@
+This is just to check whether a not created page will be created using this edit option and the view handler. Let's see...!
+
+
+Yes it worked :) ...!
